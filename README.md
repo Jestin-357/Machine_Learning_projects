@@ -10,6 +10,7 @@ Objective:
 Build a predictive model to classify customers as likely to churn (Exited = 1) or stay (Exited = 0).
 Identify key factors influencing customer attrition.
 Provide actionable insights for customer retention strategies.
+
 ![Uploading Screenshot 2025-04-17 at 9.45.21 pm.png…]()
 
 #### The dataset consists of 10,000 records with 13 features:
