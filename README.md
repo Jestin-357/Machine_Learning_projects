@@ -1,4 +1,4 @@
-# Banking churn 
+# Banking churn Prediction
 
 ## ML-Driven Bank Churn Prediction: Unlocking Customer Retention Insights, Analyzing Demographic and Financial Factors
 
@@ -6,7 +6,7 @@
 
 Customer churn is a significant issue for banks, impacting revenue and customer lifetime value. The goal is to develop a machine learning model that predicts whether customers will churn (leave the bank) based on their demographic, financial, and account activity data.
 
-Objective:
+## Objective:
 Build a predictive model to classify customers as likely to churn (Exited = 1) or stay (Exited = 0).
 Identify key factors influencing customer attrition.
 Provide actionable insights for customer retention strategies.
